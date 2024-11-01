@@ -10,11 +10,11 @@ export const links: Link[] = [
     hash: "#itinerary",
 },
 {
-    nameEng: "Gallery",
-    hash: "#gallery",
-},
-{
     nameEng: "Blessing",
     hash: "#blessing",
-}
+},
+{
+    nameEng: "Venue",
+    hash: "#venue",
+},
 ]
